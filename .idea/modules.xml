@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NFCWriterSample.iml" filepath="$PROJECT_DIR$/NFCWriterSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nfc-writer/nfc-writer.iml" filepath="$PROJECT_DIR$/nfc-writer/nfc-writer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nfc-writer sample/nfc-writer sample.iml" filepath="$PROJECT_DIR$/nfc-writer sample/nfc-writer sample.iml" />
+    </modules>
+  </component>
+</project>
+
