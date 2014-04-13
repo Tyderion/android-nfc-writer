@@ -1,4 +1,4 @@
-package ch.isageek.tyderion.nfcwriter;
+package com.github.tyderion.nfcwriter;
 
 import android.app.Activity;
 import android.content.Context;

@@ -1,11 +1,11 @@
-package ch.isageek.tyderion.nfcwriter.sample;
+package com.github.tyderion.nfcwriter.sample;
 
 import android.app.Activity;
 import android.os.Bundle;
 import android.view.View;
 
-import ch.isageek.tyderion.nfcwriter.NFCRecordHelper;
-import ch.isageek.tyderion.nfcwriter.NFCWriter;
+import com.github.tyderion.nfcwriter.NFCRecordHelper;
+import com.github.tyderion.nfcwriter.NFCWriter;
 
 
 public class MainActivity extends Activity {
