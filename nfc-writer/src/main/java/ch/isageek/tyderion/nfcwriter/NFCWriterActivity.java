@@ -1,4 +1,4 @@
-package ch.isageek.tyderion.nfcwriter.nfc_writer;
+package ch.isageek.tyderion.nfcwriter;
 
 import android.app.Activity;
 import android.content.Context;

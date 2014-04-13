@@ -1,4 +1,4 @@
-package ch.isageek.tyderion.nfcwriter.nfc_writer;
+package ch.isageek.tyderion.nfcwriter;
 
 import android.app.PendingIntent;
 import android.content.Context;
@@ -13,7 +13,6 @@ import android.nfc.tech.NdefFormatable;
 import android.util.Log;
 
 import java.io.IOException;
-
 /**
  * Most of this code is taken from this tutorial and changed to suit my needs:
  * http://tapintonfc.blogspot.ch/2012/07/the-above-footage-from-our-nfc-workshop.html

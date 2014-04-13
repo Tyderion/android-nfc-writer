@@ -1,4 +1,4 @@
-package ch.isageek.tyderion.nfcwriter.nfc_writer;
+package ch.isageek.tyderion.nfcwriter;
 
         import android.nfc.NdefRecord;
         import java.nio.charset.Charset;
